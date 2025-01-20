@@ -15,3 +15,7 @@ Repositorio con el código solución a dos desafíos realizados en la plataforma
 - [Readme problemas 41 al 50 ](./day41-50/problem41to50.md)
 
 - [Readme problemas 51 al 60 ](./day51-60/problem51to60.md)
+
+- [Readme problemas 61 al 70 ](./day61-70/problem61to70.md)
+
+- [Readme problemas 71 al 80 ](./day71-80/problem71to80.md)
