@@ -2,6 +2,13 @@
 
 Repositorio con el código solución a dos desafíos realizados en la plataforma Geek For Geeks relacionados al tópico Data Structures and Algorithms(DSA) realizados utilizando solo Python. El primer desafío corresponde al desafío personal de cumplir una racha de 100 días seguidos resolviendo problemas. El segundo desafío corresponde al desafío oficial de la plataforma llamado **GfG 160 - 160 Days of Problem Solving** el cual comenzó el día **16 de Noviembre de 2024** y que finaliza el día **25 de abril de 2025**. El desfase de problemas resueltos es de **30** días hacia atrás de la fecha de inicio del desafío **GfG 160**
 
+## Tabla de Contenidos
+
+- [Challenges Plataforma Geek For Geeks](#challenges-plataforma-geek-for-geeks)
+  - [Tabla de Contenidos](#tabla-de-contenidos)
+  - [Descripción de Problemas y Aprobación de mi Solución](#descripción-de-problemas-y-aprobación-de-mi-solución)
+  - [Bonus Problems](#bonus-problems)
+
 ## Descripción de Problemas y Aprobación de mi Solución
 
 - [Readme problemas 1 al 10 ](./day1-10/problem1to10.md)
@@ -23,3 +30,21 @@ Repositorio con el código solución a dos desafíos realizados en la plataforma
 - [Readme problemas 81 al 90 ](./day81-90/problem81to90.md)
 
 - [Readme problemas 91 al 100 ](./day91-100/problem91to100.md)
+
+## Bonus Problems
+
+- [Arrays](./BonusProblem/Arrays)
+
+- [Hashing](./BonusProblem/Hashing/)
+
+- [Matrix](./BonusProblem/Matrix/)
+
+- [Prefix Sum](./BonusProblem/Prefix%20Sum/)
+
+- [Searching](./BonusProblem/Searching/)
+
+- [Sorting](./BonusProblem/Sorting/)
+
+- [String](./BonusProblem/String/)
+
+- [Two Pointer Technique](./BonusProblem/Two%20Pointer%20Technique/)
