@@ -33,18 +33,20 @@ Repositorio con el código solución a dos desafíos realizados en la plataforma
 
 ## Bonus Problems
 
-- [Arrays](./BonusProblem/Arrays)
+- [Arrays](./BonusProblem/Arrays): 4 Problemas
 
-- [Hashing](./BonusProblem/Hashing/)
+- [Hashing](./BonusProblem/Hashing/): 6 Problemas
 
-- [Matrix](./BonusProblem/Matrix/)
+- [Matrix](./BonusProblem/Matrix/): 4 Problemas
 
-- [Prefix Sum](./BonusProblem/Prefix%20Sum/)
+- [Prefix Sum](./BonusProblem/Prefix%20Sum/): 5 Problemas
 
-- [Searching](./BonusProblem/Searching/)
+- [Searching](./BonusProblem/Searching/): 6 Problemas
 
-- [Sorting](./BonusProblem/Sorting/)
+- [Sorting](./BonusProblem/Sorting/): 2 Problemas
 
-- [String](./BonusProblem/String/)
+- [String](./BonusProblem/String/): 6 Problemas
 
-- [Two Pointer Technique](./BonusProblem/Two%20Pointer%20Technique/)
+- [Two Pointer Technique](./BonusProblem/Two%20Pointer%20Technique/): 7 Problemas
+
+- [Linked List](./BonusProblem/Linked%20List/): 5 Problemas
