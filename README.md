@@ -1,10 +1,10 @@
-# Challenges Plataforma Geek For Geeks
+# Challenges Plataforma Geeks For Geeks
 
 Repositorio con el código solución a dos desafíos realizados en la plataforma Geeks For Geeks relacionados al tópico Data Structures and Algorithms(DSA) realizados utilizando solo Python. El primer desafío corresponde al desafío personal de cumplir una racha de 100 días seguidos resolviendo problemas. El segundo desafío corresponde al desafío oficial de la plataforma llamado **GfG 160 - 160 Days of Problem Solving** el cual comenzó el día **16 de Noviembre de 2024** y que finaliza el día **25 de abril de 2025**. El desfase de problemas resueltos es de **30** días hacia atrás de la fecha de inicio del desafío **GfG 160**
 
 ## Tabla de Contenidos
 
-- [Challenges Plataforma Geek For Geeks](#challenges-plataforma-geek-for-geeks)
+- [Challenges Plataforma Geeks For Geeks](#challenges-plataforma-geeks-for-geeks)
   - [Tabla de Contenidos](#tabla-de-contenidos)
   - [Descripción de Problemas y Aprobación de mi Solución](#descripción-de-problemas-y-aprobación-de-mi-solución)
   - [Bonus Problems](#bonus-problems)

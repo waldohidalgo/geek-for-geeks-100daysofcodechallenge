@@ -10,20 +10,20 @@ class Solution:
     def build(self,arr):
         n=len(arr)
         root=Node(arr[0])
-        stack=deque([root])
+        queue=deque([root])
         i=0
         while i<n:
-            curr_root=stack.popleft()
+            curr_root=queue.popleft()
             i+=1
             if i<n and arr[i]:
                 left=Node(arr[i])
                 curr_root.left=left
-                stack.append(left)
+                queue.append(left)
             i+=1
             if i<n and arr[i]:            
                 right=Node(arr[i])
                 curr_root.right=right
-                stack.append(right)
+                queue.append(right)
 
         return root
     
@@ -33,17 +33,17 @@ class Solution:
     def levelOrder(self, root:Node):
         # Your code here
         res=[]
-        stack=deque([root])
-        while stack:
+        queue=deque([root])
+        while queue:
             arr=[]
-            n=len(stack)
+            n=len(queue)
             for _ in range(n):
-                node=stack.popleft()
+                node=queue.popleft()
                 arr.append(node.data)
                 if node.left:
-                    stack.append(node.left)
+                    queue.append(node.left)
                 if node.right:
-                    stack.append(node.right)
+                    queue.append(node.right)
             res.append(arr)
 
         return res
