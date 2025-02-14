@@ -60,8 +60,28 @@ class Solution:
                     inpred.right=curr
                     curr=curr.left
         return res
+    
+    def inOrderIteration(self,root):
+        res=[]
+        curr=root
+        stack=[]
+        while curr:
+            stack.append(curr) 
+            curr=curr.left
 
+        while stack:
+            node=stack.pop()
+            res.append(node.data)
+            curr=node.right
+            while curr:
+                stack.append(curr)
+                curr=curr.left
+        return res
+
+            
+        
 sol=Solution()
 arr=[20, 8, 22, 4, 12, None, None, None, None, 10, 14]
 root=sol._build(arr)
 print(sol.inOrderMorris(root))
+print(sol.inOrderIteration(root))
