@@ -29,24 +29,34 @@ class Solution:
 # Return the kth smallest element in the given BST 
     def kthSmallest(self, root, k): 
         #code here.
-        self.kth=-1
-        self.i=0
-        def rec(root):
-            if not root or self.kth!=-1:
-                return
-            rec(root.left)
-            self.i+=1
-            if self.i==k:
-                self.kth=root.data
-                return
-            rec(root.right)
-        rec(root)
-        return self.kth
+        ct=0
+        curr=root
+        while curr:
+            if not curr.left:
+                ct+=1
+                if ct==k:
+                    return curr.data
+                curr=curr.right
+            else:
+                inpred=curr.left
+                while inpred.right and inpred.right!=curr:
+                    inpred=inpred.right
+
+                if inpred.right==curr:
+                    inpred.right=None
+                    ct+=1
+                    if ct==k:
+                        return curr.data
+                    curr=curr.right
+                else:
+                    inpred.right=curr
+                    curr=curr.left
+        return -1
     
 sol=Solution()
 # arr=[20, 8, 22, 4, 12, None, None, None, None, 10, 14]
 # k=3
 arr=[2, 1, 3]
-k=5
+k=2
 root=sol._build(arr)
 print(sol.kthSmallest(root,k))
