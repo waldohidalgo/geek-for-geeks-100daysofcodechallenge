@@ -24,10 +24,8 @@ class Solution:
             if not bucket:
                 bucket.append(arr[i])
             else:
-                valid_len=None
                 if arr[i]>bucket[-1]:
                     bucket.append(arr[i])
-                    valid_len=len(bucket)
                 else:
                     l,r=0,len(bucket)-1
                     while l<r:
@@ -37,9 +35,8 @@ class Solution:
                         else:
                             l=mid+1
                     bucket[l]=arr[i]
-                    valid_len=l+1
-                max_len=max(max_len,valid_len)
-        return max_len
+                
+        return len(bucket)
 
 
 
