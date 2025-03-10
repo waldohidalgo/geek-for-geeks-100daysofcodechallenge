@@ -37,6 +37,8 @@ Repositorio con el código solución a dos desafíos realizados en la plataforma
 
 - [Readme problemas 121 al 130](./day121-130/problem121to130.md)
 
+- [Readme problemas 131 al 140](./day131-140/problem131to140.md)
+
 ## Bonus Problems
 
 - [Arrays](./BonusProblem/Arrays): 4 Problemas
