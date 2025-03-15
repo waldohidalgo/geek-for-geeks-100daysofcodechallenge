@@ -14,7 +14,8 @@ class Solution:
                     dp[i][j]=dp[i-1][j]+dp[i][j-coins[i-1]] 
                 else:
                     dp[i][j]=dp[i-1][j]
-        #print(dp)
+        # for row in dp:
+        #     print(row)
         return dp[n][k]
     
 
