@@ -1,6 +1,6 @@
 # Resolución de los Problemas del día 141 al día 150
 
-Estos 10 problemas corresponde a Programación Dinámica
+Estos 10 problemas corresponden al tópico de Programación Dinámica
 
 ## Tabla de Contenidos
 
