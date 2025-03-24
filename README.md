@@ -39,7 +39,9 @@ Repositorio con el código solución a dos desafíos realizados en la plataforma
 
 - [Readme problemas 131 al 140](./day131-140/problem131to140.md)
 
-- [Readme problemas 141 al 150](./day141-150/problem141to150.md)
+- [Readme problemas 141 al 150](./day141-150/problem141to150.md): Todos los problemas son de programación dinámica
+
+- [Readme problemas 151 al 160](./day151-160/problem151to160.md): Todos los problemas son de programación dinámica
 
 ## Bonus Problems
 
