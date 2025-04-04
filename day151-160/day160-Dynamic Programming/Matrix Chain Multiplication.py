@@ -1,5 +1,4 @@
 class Solution:
-
     def matrixMultiplication(self, arr):
         # code here
         n=len(arr)

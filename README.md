@@ -43,6 +43,8 @@ Repositorio con el código solución a dos desafíos realizados en la plataforma
 
 - [Readme problemas 151 al 160](./day151-160/problem151to160.md): Todos los problemas son de programación dinámica
 
+- [Readme problemas 161 al 170](./day161-170/problem161to170.md)
+
 ## Bonus Problems
 
 - [Arrays](./BonusProblem/1Arrays): 4 Problemas
@@ -64,3 +66,9 @@ Repositorio con el código solución a dos desafíos realizados en la plataforma
 - [Linked List](./BonusProblem/9Linked%20List): 5 Problemas
 
 - [Recursion and Backtracking](./BonusProblem/10Recursion%20and%20backtracking/): 4 problemas
+
+- [Tree](./BonusProblem/101Tree/): 7 problemas
+
+- [Heap](./BonusProblem/102Heap/): 5 problemas
+
+- [Stack](./BonusProblem/103Stack/): 4 problemas
