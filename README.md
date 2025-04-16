@@ -11,25 +11,25 @@ Repositorio con el código solución a dos desafíos realizados en la plataforma
 
 ## Descripción de Problemas y Aprobación de mi Solución
 
-- [Readme problemas 1 al 10 ](./day1-10/problem1to10.md)
+- [Readme problemas 1 al 10 ](./day001-010/problem1to10.md)
 
-- [Readme problemas 11 al 20 ](./day11-20/problem11to20.md)
+- [Readme problemas 11 al 20 ](./day011-020/problem11to20.md)
 
-- [Readme problemas 21 al 30 ](./day21-30/problem21to30.md)
+- [Readme problemas 21 al 30 ](./day021-030/problem21to30.md)
 
-- [Readme problemas 31 al 40 ](./day41-50/problem41to50.md)
+- [Readme problemas 31 al 40 ](./day031-040/problem31to40.md)
 
-- [Readme problemas 41 al 50 ](./day41-50/problem41to50.md)
+- [Readme problemas 41 al 50 ](./day041-050/problem41to50.md)
 
-- [Readme problemas 51 al 60 ](./day51-60/problem51to60.md)
+- [Readme problemas 51 al 60 ](./day051-060/problem51to60.md)
 
-- [Readme problemas 61 al 70 ](./day61-70/problem61to70.md)
+- [Readme problemas 61 al 70 ](./day061-070/problem61to70.md)
 
-- [Readme problemas 71 al 80 ](./day71-80/problem71to80.md)
+- [Readme problemas 71 al 80 ](./day071-080/problem71to80.md)
 
-- [Readme problemas 81 al 90 ](./day81-90/problem81to90.md)
+- [Readme problemas 81 al 90 ](./day081-090/problem81to90.md)
 
-- [Readme problemas 91 al 100 ](./day91-100/problem91to100.md)
+- [Readme problemas 91 al 100 ](./day091-100/problem91to100.md)
 
 - [Readme problemas 101 al 110 ](./day101-110/problem101to110.md)
 
