@@ -1,13 +1,18 @@
 # Challenges Plataforma Geeks For Geeks
 
-Repositorio con el código solución a dos desafíos realizados en la plataforma Geeks For Geeks relacionados al tópico Data Structures and Algorithms(DSA) realizados utilizando solo Python. El primer desafío corresponde al desafío personal de cumplir una racha de 100 días seguidos resolviendo problemas. El segundo desafío corresponde al desafío oficial de la plataforma llamado **GfG 160 - 160 Days of Problem Solving** el cual comenzó el día **16 de Noviembre de 2024** y que finaliza el día **25 de abril de 2025**. El desfase de problemas resueltos es de **30** días hacia atrás de la fecha de inicio del desafío **GfG 160**
+Repositorio con el código solución a dos desafíos realizados en la plataforma Geeks For Geeks relacionados al tópico Data Structures and Algorithms(DSA) realizados utilizando solo Python. El primer desafío corresponde al desafío personal de cumplir una racha de 200 días seguidos resolviendo problemas. El segundo desafío corresponde al desafío oficial de la plataforma llamado **GfG 160 - 160 Days of Problem Solving** el cual comenzó el día **16 de Noviembre de 2024** y que finaliza el día **25 de abril de 2025**.
 
 ## Tabla de Contenidos
 
 - [Challenges Plataforma Geeks For Geeks](#challenges-plataforma-geeks-for-geeks)
   - [Tabla de Contenidos](#tabla-de-contenidos)
+  - [Completion Certificate](#completion-certificate)
   - [Descripción de Problemas y Aprobación de mi Solución](#descripción-de-problemas-y-aprobación-de-mi-solución)
   - [Bonus Problems](#bonus-problems)
+
+## Completion Certificate
+
+![Certificado](./gfg160_completion_certificate.webp)
 
 ## Descripción de Problemas y Aprobación de mi Solución
 
@@ -46,6 +51,10 @@ Repositorio con el código solución a dos desafíos realizados en la plataforma
 - [Readme problemas 161 al 170](./day161-170/problem161to170.md)
 
 - [Readme problemas 171 al 180](./day171-180/problem171to180.md): Todos los problemas son del tópico Graph
+
+- [Readme problemas 181 al 190](./day181-190/problem181to190.md)
+
+- [Readme problemas 191 al 200](./day191-200/problem191to200.md)
 
 ## Bonus Problems
 
