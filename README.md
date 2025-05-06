@@ -12,7 +12,7 @@ Repositorio con el código solución a dos desafíos realizados en la plataforma
 
 ## Completion Certificate
 
-[Link de Verificación](https://www.geeksforgeeks.org/certificate/4285d2245175b2afe4c009726f081d62)
+[Link de Verificación](https://www.geeksforgeeks.org/certificate/bb58e93d7b51e614c52c57e6b108eeda)
 ![Certificado](./gfg160_completion_certificate.webp)
 
 ## Descripción de Problemas y Aprobación de mi Solución
